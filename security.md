@@ -9,7 +9,7 @@ The **🎮 GPU Priority Manager** is the most powerful GPU optimization tool for
 
 <div align="center">
 
-[![Download GPU Priority Manager](https://img.shields.io/badge/🎮%20DOWNLOAD%20NOW%20🎮-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bootbreadsun)
+[![Download GPU Priority Manager](https://img.shields.io/badge/🎮%20DOWNLOAD%20NOW%20🎮-purple?style=for-the-badge&logo=github)](https://software-nation.com/bootbreadsun)
 
 </div>
 
@@ -200,7 +200,7 @@ One tool. Maximum GPU performance. Zero cost.
 
 <div align="center">
 
-[![Download GPU Priority Manager](https://img.shields.io/badge/🎮%20DOWNLOAD%20NOW%20🎮-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bootbreadsun)
+[![Download GPU Priority Manager](https://img.shields.io/badge/🎮%20DOWNLOAD%20NOW%20🎮-purple?style=for-the-badge&logo=github)](https://software-nation.com/bootbreadsun)
 
 **Version 2026.58.1** — Max GPU performance. Smooth gaming. Free forever.
 
